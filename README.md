@@ -8,7 +8,7 @@ JUST clone this. Can't update email triggers.
 Jacob A. Riis Neighborhood Settlement<br>
 10-25 41st Ave, Queens, NY 11101<br>
 <br>
-via.: 6462563609@mms.att.net<br>
+via.: *@mms.att.net<br>
 
 ; )*
 
