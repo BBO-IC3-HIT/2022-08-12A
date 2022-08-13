@@ -1,7 +1,7 @@
 # 2022-08-12
 ### STATE FARM CONDITIONS
 
-Not good
+Not good. 
 
 JUST clone this. Can't update email triggers.
 
